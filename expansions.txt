@@ -229,7 +229,6 @@ Nobody Pays (for) Magazines
 Nobody Publish Monsters
 Nobody's Perfect, Man
 Nobody Picked Me
-Nobody Prefers Margarine
 Nocturnal Parakeet Monitor
 Nocturnal Programmer's Machine
 Nocturnally Psychologizing Millipede
@@ -258,6 +257,7 @@ Nomad Packaging Mechanism
 Nomenclature Processing Machine
 Nominally Patriotric Meathead
 Non Programming Manager
+Non-Permeable Membrane
 Non-Polite Mother
 Non-Potable Macchiato
 Non-Printable Material
@@ -287,7 +287,6 @@ Norwegian Pony Master
 Nose Picker's Maven
 Nosey Party Murderer
 Nostalgic Perogi Monogramming
-Nostalgic Piano Music
 Nostalgic Primordial Monster
 Not a Package Manager
 Not Parents' Money
